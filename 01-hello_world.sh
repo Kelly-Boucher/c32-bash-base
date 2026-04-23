@@ -14,5 +14,5 @@ echo "Linux"
 echo -e "123\n\tn456" 
 
 #Équivalent du cin en c++, pas de $ quand on affecte la variable, juste en lecture,
- read -p "Quel âge avez-vous?" age 
+ read -p "Quel âge avez-vous?" age #p pour phrase, pour mettre un message avant de demander une valeur à une variable
 echo $age "ans!"
